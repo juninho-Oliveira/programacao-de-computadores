@@ -52,7 +52,6 @@ else:
 print(f"O preço do produto é: R$ {preco:6.2f}")
 
 
-
 import math
 
 valor = int(input("Digite o valor: "))
@@ -67,8 +66,6 @@ while(contador <= 5):
     r = x * 3
     print("O valor de R é:", r)
     contador = contador + 1
-    
-
 
 
 contador = 1
@@ -79,11 +76,14 @@ while(resposta == "sim" or resposta == "s"):
     print("O valor de R é:", r)
     resposta = input("Deseja continuar ?")
     
-'''
+
 
 fatorial = contador = 1
 while (contador <= 5):
     fatorial = fatorial * contador
     contador = contador + 1
 print ("O fatorial de 5 é: ", fatorial)
+'''
+
+
 
