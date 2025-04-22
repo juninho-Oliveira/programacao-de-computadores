@@ -57,7 +57,7 @@ for x in range(len(duas_lista)):
 
 print ("Conteúdo da terceira lista:", terceira)
 
-'''
+
 
 i = 2
 while True:
@@ -72,3 +72,14 @@ while (count < 10):
     print ("Passei por aqui...", count)
     count = count + 1
 # Ponto B
+
+
+
+
+
+def soma(a,b):
+    print(a+b)
+
+soma(2,9)
+
+'''
